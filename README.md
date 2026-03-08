@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Juan Hernandez. Welcome to my project portfolio 👋
 
 <!--
 **EBISolutions/EBISolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some of my contributions to YouTube.
+[Power BI course for beginners](https://www.youtube.com/watch?v=X0kFy9NI80Y&t=13800s)
