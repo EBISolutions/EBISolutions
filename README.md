@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Power BI CV](https://www.jjgodirect.com/web/image/14973-8ddd688d/CV-ES.jpg)](https://app.powerbi.com/view?r=eyJrIjoiODI5Y2M1MDgtZTljNC00ZmMyLWE4MGUtNDRmYWJmOGFmNjBjIiwidCI6IjRjZDViMTA2LWE2ZjItNDJkYi05ZjE2LWMyMzRkOWJhZGIwYiIsImMiOjR9)
+
 Here are some of my contributions to YouTube.
 [Power BI course for beginners](https://www.youtube.com/watch?v=X0kFy9NI80Y&t=13800s)
