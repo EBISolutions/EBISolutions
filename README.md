@@ -43,7 +43,9 @@ Key Highlights
 - KPI monitoring for business performance tracking
 - Executive-level analytics for strategic decision making
 
-##### Financial Reporting
+##### Sales & Commercial Reporting (Example)
 [![MetriQ BI Dashboard](https://www.jjgodirect.com/web/image/15207-63965c3d/Screenshot%202026-03-12%20104729.jpg)](https://app.powerbi.com/view?r=TU_LINK)
-
-
+##### Financial Reporting (Example)
+[![MetriQ BI Dashboard](https://www.jjgodirect.com/web/image/15215-4e0169b8/Screenshot%202026-03-12%20124007.jpg)](https://app.powerbi.com/view?r=TU_LINK)
+##### Supply Chain Reporting (Example)
+[![MetriQ BI Dashboard](https://www.jjgodirect.com/web/image/15214-a1d071bb/Screenshot%202026-03-12%20124750.jpg)](https://app.powerbi.com/view?r=TU_LINK)
