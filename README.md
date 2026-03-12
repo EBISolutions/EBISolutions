@@ -11,7 +11,7 @@
 - Excel
 - Power BI
 - MS Fabric
-- 
+- Odoo
 
 ## Experience
 
