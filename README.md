@@ -10,6 +10,10 @@
 ![Python](https://img.shields.io/badge/Python-Analytics-green)
 ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple)
 
+###  💻 Studies
+Bachelor of Science in Industrial Engineer from UANL, México.
+Languages: English and Spanish
+
 ###  🛠️ Technical Skills
 #### 📊 Data & BI
 Power BI | Excel | Microsoft Fabric | Databricks
