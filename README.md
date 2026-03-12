@@ -13,25 +13,29 @@
 ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple)
 
 ## 🛠️ Tech Stack
-
-- 📊 Power BI
-- 🗄️ SQL Server / PostgreSQL
-- 🐍 Python (Pandas, NumPy)
-- ⚙️ Odoo ERP
-- ☁️ Azure / APIs
-
-## 📊 BI Dashboard Example
-
-[![Power BI Dashboard](https://imgur.com/tuimagen.png)](https://app.powerbi.com/view?r=TU_LINK)
-
+### 📊 Data & BI
+Power BI • Excel • Microsoft Fabric • Databricks
+### 🗄️ Databases
+SQL Server • PostgreSQL • SAP HANA
+### 🐍 Data Processing
+Python (Pandas, NumPy)
+### ⚙️ Business Systems
+Odoo ERP • Microsoft 365 Admin
+### 🏗️ Engineering Tools
+AutoCAD • Inventor
 
 ## 🚀 Featured Projects
+### <img src="https://www.jjgodirect.com/web/image/14967-e83f8172/Screenshot%202025-08-21%20132708.png?height=52" width="35"> MetriQ BI – Business Intelligence for Odoo
+MetriQ BI is a Business Intelligence solution built on Microsoft Power BI that integrates directly with Odoo ERP to extract, transform, and consolidate key business data including sales, purchasing, inventory, and accounting.
 
-### 📊 Sales Analytics Dashboard
-Power BI dashboard connected to Odoo ERP analyzing:
+The solution provides interactive dashboards and strategic KPIs that allow organizations to monitor performance, identify trends, and support data-driven decision making.
 
-- Sales performance
-- Inventory turnover
-- Customer segmentation
+Key Highlights
 
-🔗 https://github.com/EBISolutions/project-sales-analytics
+- Integration with Odoo ERP data sources
+- Automated data extraction and consolidation
+- Interactive dashboards for sales, purchasing, inventory, and finance
+- KPI monitoring for business performance tracking
+- Executive-level analytics for strategic decision making
+
+[![MetriQ BI Dashboard](https://tu-imagen-dashboard.png)](https://app.powerbi.com/view?r=TU_LINK)
