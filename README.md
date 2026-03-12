@@ -22,7 +22,7 @@ SQL Server | PostgreSQL | SAP HANA
 #### 🐍 Data Processing
 Python (Pandas, NumPy)
 #### ⚙️ Business Systems
-Odoo ERP | Microsoft 365 Admin
+SAP | Salesforce | Odoo ERP | Microsoft 365 Admin | MS Project
 #### 🏗️ Industrial Design
 AutoCAD | Inventor
 
