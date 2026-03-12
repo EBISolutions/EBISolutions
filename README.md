@@ -1,7 +1,5 @@
-# 👋 Hi, I'm Juan Hernandez
-
-💼 Business Intelligence | Data Analytics | ERP Analytics  
-📊 Power BI | SQL | Python | Odoo ERP | Data Modeling  
+## Hi there, I'm Juan Hernandez  👋 
+💼 Business Intelligence | Data Analytics | ERP Analytics
 
 > Helping companies turn data into strategic decisions.
 
@@ -12,20 +10,23 @@
 ![Python](https://img.shields.io/badge/Python-Analytics-green)
 ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple)
 
-## 🛠️ Tech Stack
-### 📊 Data & BI
+###  🛠️ Tech Stack
+#### 📊 Data & BI
 Power BI • Excel • Microsoft Fabric • Databricks
-### 🗄️ Databases
+#### 🗄️ Databases
 SQL Server • PostgreSQL • SAP HANA
-### 🐍 Data Processing
+#### 🐍 Data Processing
 Python (Pandas, NumPy)
-### ⚙️ Business Systems
+#### ⚙️ Business Systems
 Odoo ERP • Microsoft 365 Admin
-### 🏗️ Engineering Tools
+#### 🏗️ Engineering Tools
 AutoCAD • Inventor
 
-## 🚀 Featured Projects
-### <img src="https://www.jjgodirect.com/web/image/14967-e83f8172/Screenshot%202025-08-21%20132708.png?height=52" width="35"> MetriQ BI – Business Intelligence for Odoo
+🚚 Supply Chain Management Demand Planning | Inventory Optimization | Production Scheduling | Supplier Management
+📊 Financial Analysis Budgeting | Forecasting | Variance Analysis | Financial Reporting
+
+###  🚀 Featured Projects
+#### <img src="https://www.jjgodirect.com/web/image/14967-e83f8172/Screenshot%202025-08-21%20132708.png?height=52" width="35"> MetriQ BI – Business Intelligence for Odoo
 MetriQ BI is a Business Intelligence solution built on Microsoft Power BI that integrates directly with Odoo ERP to extract, transform, and consolidate key business data including sales, purchasing, inventory, and accounting.
 
 The solution provides interactive dashboards and strategic KPIs that allow organizations to monitor performance, identify trends, and support data-driven decision making.
@@ -38,4 +39,6 @@ Key Highlights
 - KPI monitoring for business performance tracking
 - Executive-level analytics for strategic decision making
 
-[![MetriQ BI Dashboard](https://www.jjgodirect.com/web/image/15199-cdb296be/Screenshot%202026-03-12%20104729.jpg)](https://app.powerbi.com/view?r=TU_LINK)
+[![MetriQ BI Dashboard](https://www.jjgodirect.com/web/image/15207-63965c3d/Screenshot%202026-03-12%20104729.jpg)](https://app.powerbi.com/view?r=TU_LINK)
+
+
