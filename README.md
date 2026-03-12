@@ -26,8 +26,11 @@ SAP | Salesforce | Odoo ERP | Microsoft 365 Admin | MS Project
 #### 🏗️ Industrial Design
 AutoCAD | Inventor
 
-🚚 Supply Chain Management Demand Planning | Inventory Optimization | Production Scheduling | Supplier Management
-📊 Financial Analysis Budgeting | Forecasting | Variance Analysis | Financial Reporting
+#### 🚚 Supply Chain
+Supply Chain Management Demand Planning | Inventory Optimization | Production Scheduling | Supplier Management
+
+#### 📊 Financial Reporting
+Financial Analysis Budgeting | Forecasting | Variance Analysis
 
 ###  🚀 Featured Projects
 #### <img src="https://www.jjgodirect.com/web/image/14967-e83f8172/Screenshot%202025-08-21%20132708.png?height=52" width="35">  MetriQ BI – Business Intelligence for Odoo
