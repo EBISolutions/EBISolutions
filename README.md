@@ -12,15 +12,15 @@
 
 ###  🛠️ Tech Stack
 #### 📊 Data & BI
-Power BI • Excel • Microsoft Fabric • Databricks
+Power BI | Excel | Microsoft Fabric | Databricks
 #### 🗄️ Databases
-SQL Server • PostgreSQL • SAP HANA
+SQL Server | PostgreSQL | SAP HANA
 #### 🐍 Data Processing
 Python (Pandas, NumPy)
 #### ⚙️ Business Systems
-Odoo ERP • Microsoft 365 Admin
-#### 🏗️ Engineering Tools
-AutoCAD • Inventor
+Odoo ERP | Microsoft 365 Admin
+#### 🏗️ Industrial Design
+AutoCAD | Inventor
 
 🚚 Supply Chain Management Demand Planning | Inventory Optimization | Production Scheduling | Supplier Management
 📊 Financial Analysis Budgeting | Forecasting | Variance Analysis | Financial Reporting
