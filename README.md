@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![Power BI CV](https://www.jjgodirect.com/web/image/14973-8ddd688d/CV-ES.jpg)](https://app.powerbi.com/view?r=eyJrIjoiODI5Y2M1MDgtZTljNC00ZmMyLWE4MGUtNDRmYWJmOGFmNjBjIiwidCI6IjRjZDViMTA2LWE2ZjItNDJkYi05ZjE2LWMyMzRkOWJhZGIwYiIsImMiOjR9)
-
-Here are some of my contributions to YouTube.
-[![Power BI course for beginners](https://www.jjgodirect.com/web/image/14973-8ddd688d/CV-ES.jpg)](https://www.youtube.com/watch?v=X0kFy9NI80Y&t=13800s)
+![Profile Views](https://camo.githubusercontent.com/ea4d5ad1f7cdd5bb1f6d21b9df949ffb53d1cb6010b7cda1c39a13154145e951/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c63617272656e6f79)
