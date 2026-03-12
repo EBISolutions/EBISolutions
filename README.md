@@ -38,4 +38,4 @@ Key Highlights
 - KPI monitoring for business performance tracking
 - Executive-level analytics for strategic decision making
 
-[![MetriQ BI Dashboard](https://tu-imagen-dashboard.png)](https://app.powerbi.com/view?r=TU_LINK)
+[![MetriQ BI Dashboard](https://www.jjgodirect.com/web/image/15199-cdb296be/Screenshot%202026-03-12%20104729.jpg)](https://app.powerbi.com/view?r=TU_LINK)
