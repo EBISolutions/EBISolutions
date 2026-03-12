@@ -1,5 +1,5 @@
 ## Hi there, I'm Juan Hernandez  👋 
-💼 Business Intelligence | Data Analytics | ERP Analytics
+💼 Digital Transformation | Business Intelligence | Data Analytics | ERP Analytics
 
 > Helping companies turn data into strategic decisions.
 
@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-Analytics-green)
 ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple)
 
-###  🛠️ Tech Stack
+###  🛠️ Technical Skills
 #### 📊 Data & BI
 Power BI | Excel | Microsoft Fabric | Databricks
 #### 🗄️ Databases
@@ -26,7 +26,7 @@ AutoCAD | Inventor
 📊 Financial Analysis Budgeting | Forecasting | Variance Analysis | Financial Reporting
 
 ###  🚀 Featured Projects
-#### <img src="https://www.jjgodirect.com/web/image/14967-e83f8172/Screenshot%202025-08-21%20132708.png?height=52" width="35"> MetriQ BI – Business Intelligence for Odoo
+#### <img src="https://www.jjgodirect.com/web/image/14967-e83f8172/Screenshot%202025-08-21%20132708.png?height=52" width="35">  MetriQ BI – Business Intelligence for Odoo
 MetriQ BI is a Business Intelligence solution built on Microsoft Power BI that integrates directly with Odoo ERP to extract, transform, and consolidate key business data including sales, purchasing, inventory, and accounting.
 
 The solution provides interactive dashboards and strategic KPIs that allow organizations to monitor performance, identify trends, and support data-driven decision making.
