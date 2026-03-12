@@ -39,7 +39,6 @@ MetriQ BI is a Business Intelligence solution built on Microsoft Power BI that i
 The solution provides interactive dashboards and strategic KPIs that allow organizations to monitor performance, identify trends, and support data-driven decision making.
 
 Key Highlights
-
 - Integration with Odoo ERP data sources
 - Automated data extraction and consolidation
 - Interactive dashboards for sales, purchasing, inventory, and finance
