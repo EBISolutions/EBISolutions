@@ -11,8 +11,8 @@
 ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple)
 
 ###  💻 Studies
-Bachelor of Science in Industrial Engineer from UANL, México.
-Languages: English and Spanish
+- Bachelor of Science in Industrial Engineer from UANL, México.
+- Languages: English and Spanish
 
 ###  🛠️ Technical Skills
 #### 📊 Data & BI
