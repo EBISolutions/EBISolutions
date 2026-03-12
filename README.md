@@ -12,10 +12,6 @@
 ![Python](https://img.shields.io/badge/Python-Analytics-green)
 ![Odoo](https://img.shields.io/badge/Odoo-ERP-purple)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EBISolutions&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EBISolutions&layout=compact)
-
 ## 🛠️ Tech Stack
 
 - 📊 Power BI
