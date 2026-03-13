@@ -51,3 +51,6 @@ Key Highlights
 [![MetriQ BI Dashboard](https://www.jjgodirect.com/web/image/15215-4e0169b8/Screenshot%202026-03-12%20124007.jpg)](https://app.powerbi.com/view?r=TU_LINK)
 ##### Supply Chain Reporting (Example)
 [![MetriQ BI Dashboard](https://www.jjgodirect.com/web/image/15214-a1d071bb/Screenshot%202026-03-12%20124750.jpg)](https://app.powerbi.com/view?r=TU_LINK)
+
+###   Some of my contributions to the community
+[![YOUTUBE](https://www.jjgodirect.com/web/image/14988-0ee1805d/Power%20BI%20en%205%20Horas%20Crea%20tu%20Primer%20Dashboard%20Profesional%20desde%20Cero.png?height=256)](https://youtu.be/X0kFy9NI80Y)
